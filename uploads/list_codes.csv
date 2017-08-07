@@ -1,631 +1,632 @@
-20,Ashland,Greene,town
-22,Athens,Greene,town
-24,Cairo,Greene,town
-26,Catskill,Greene,town
-28,Coxsackie,Greene,town
-30,Durham,Greene,town
-32,Greenville,Greene,town
-34,Halcott,Greene,town
-36,Hunter,Greene,town
-38,Jewitt,Greene,town
-40,Lexington,Greene,town
-42,New Baltimore,Greene,town
-44,Prattsville,Greene,town
-46,Windham,Greene,town
-ANC,Ancram,Columbia,town
-AUS,Austerlitz,Columbia,town
-BE,Bethel,Sullivan,town
-BG,Blooming Grove,Orange,town
-C,Clarkstown,Rockland,town
-CA,Callicoon,Sullivan,town
-CAN,Canaan,Columbia,town
-CHA,Chatham,Columbia,town
-CHE,Chester,Orange,town
-CKG,Kingston (c),Ulster,town
-CLA,Claverack,Columbia,town
-CLE,Clermont,Columbia,town
-CO,Cochecton,Sullivan,town
-COP,Copake,Columbia,town
-CR,Crawford,Orange,town
-CW,Cornwall,Orange,town
-DE,Delaware,Sullivan,town
-DEN,Denning,Ulster,town
-DP,Deerpark,Orange,town
-ESO,Esopus,Ulster,town
-FA,Fallsburg,Sullivan,town
-FO,Forestburgh,Sullivan,town
-FR,Fremont,Sullivan,town
-GAL,Gallatin,Columbia,town
-GAR,Gardiner,Ulster,town
-GER,Germantown,Columbia,town
-GHT,Ghent,Columbia,town
-GRP,Greenport,Columbia,town
-GSN,Goshen,Orange,town
-GV,Greenville,Orange,town
-H,Haverstraw,Rockland,town
-HAR,Hardenburgh,Ulster,town
-HBG,Hamptonburgh,Orange,town
-HI,Highlands,Orange,town
-HI,Highland,Sullivan,town
-HIL,Hillsdale,Columbia,town
-HUD,Hudson,Columbia,town
-HUR,Hurley,Ulster,town
-KIN,Kinderhook,Columbia,town
-KIN,Kingston,Ulster,town
-LI,Liberty,Sullivan,town
-LIV,Livingston,Columbia,town
-LLO,Lloyd,Ulster,town
-LU,Lumberland,Sullivan,town
-MA,Mamakating,Sullivan,town
-MAR,Marbletown,Ulster,town
-MGY,Montgomery,Orange,town
-MH,Mount Hope,Orange,town
-MID,Middletown,Orange,town
-MIN,Minisink,Orange,town
-MRL,Marlborough,Ulster,town
-MRO,Monroe,Orange,town
-NBG,Newburgh (c),Orange,town
-NE,Neversink,Sullivan,town
-NEW,New Paltz,Ulster,town
-NLE,New Lebanon,Columbia,town
-NW,New Windsor,Orange,town
-NWT,Newburgh,Orange,town
-O,Orangetown,Rockland,town
-OLI,Olive,Ulster,town
-PJ,Port Jervis,Orange,town
-PLA,Plattekill,Ulster,town
-R,Ramapo,Rockland,town
-RO,Rockland,Sullivan,town
-ROC,Rochester,Ulster,town
-ROS,Rosendale,Ulster,town
-S,Stony Point,Rockland,town
-SAU,Saugerties,Ulster,town
-SHA,Shandaken,Ulster,town
-SHW,Shawangunk,Ulster,town
-STP,Stockport,Columbia,town
-STY,Stuyvesant,Columbia,town
-TAG,Taghkanic,Columbia,town
-TH,Thompson,Sullivan,town
-TU,Tuxedo,Orange,town
-TU,Tusten,Sullivan,town
-ULS,Ulster,Ulster,town
-WAR,Warwick,Orange,town
-WAW,Wawayanda,Orange,town
-WAW,Wawarsing,Ulster,town
-WKL,Wallkill,Orange,town
-WO,Woodbury,Orange,town
-WOD,Woodstock,Ulster,town
-8,Kingston Consolidated,Ulster,school_district
-26,Pine Bush,Ulster,school_district
-28,Fallsburgh,Ulster,school_district
-32,Highland,Ulster,school_district
-34,Rondout Valley,Ulster,school_district
-36,Marlborough,Ulster,school_district
-38,New Paltz,Ulster,school_district
-40,Onteora,Ulster,school_district
-42,Valley Central,Ulster,school_district
-44,Livingston Manor,Ulster,school_district
-46,Margaretville,Ulster,school_district
-48,Saugerties,Ulster,school_district
-52,Wallkill,Ulster,school_district
-56,Ellenville,Ulster,school_district
-60,Tri Valley,Ulster,school_district
-C01,Clarkstown (Area 01),Rockland,school_district
-C02,Clarkstown (Area 02),Rockland,school_district
-C03,Clarkstown (Area 03),Rockland,school_district
-C04,Clarkstown (Area 04),Rockland,school_district
-E01,East Ramapo (Area 01),Rockland,school_district
-E02,East Ramapo (Area 02),Rockland,school_district
-E03,East Ramapo (Area 03),Rockland,school_district
-E04,East Ramapo (Area 04),Rockland,school_district
-E05,East Ramapo (Area 05),Rockland,school_district
-E06,East Ramapo (Area 06),Rockland,school_district
-E07,East Ramapo (Area 07),Rockland,school_district
-E08,East Ramapo (Area 08),Rockland,school_district
-E09,East Ramapo (Area 09),Rockland,school_district
-E10,East Ramapo (Area 10),Rockland,school_district
-H01,Haverstraw (Area 01),Rockland,school_district
-H02,Haverstraw (Area 02),Rockland,school_district
-H03,Haverstraw (Area 03),Rockland,school_district
-NAN,Nanuet,Rockland,school_district
-NYK,Nyack,Rockland,school_district
-O01,Orangetown (Area 01),Rockland,school_district
-O02,Orangetown (Area 02),Rockland,school_district
-O03,Orangetown (Area 03),Rockland,school_district
-O04,Orangetown (Area 04),Rockland,school_district
-O05,Orangetown (Area 05),Rockland,school_district
-P01,Pearl River (Area 01),Rockland,school_district
-P02,Pearl River (Area 02),Rockland,school_district
-P03,Pearl River (Area 03),Rockland,school_district
-R01,Ramapo (Area 01),Rockland,school_district
-R02,Ramapo (Area 02),Rockland,school_district
-R03,Ramapo (Area 03),Rockland,school_district
-R04,Ramapo (Area 04),Rockland,school_district
-R05,Ramapo (Area 05),Rockland,school_district
-VBL,Village of Bloomingburg,Sullivan,school_district
-VLI,Village of Liberty,Sullivan,school_district
-VMO,Village of Monticello,Sullivan,school_district
-VWB,Village of Wurtsboro,Sullivan,school_district
-VWO,Village of Woodridge,Sullivan,school_district
-1,Middletown,Orange,school_district
-2,Newburgh,Orange,school_district
-3,Port Jervis,Orange,school_district
-4,Chester,Orange,school_district
-5,Cornwall,Orange,school_district
-6,Eldred,Orange,school_district
-7,Florida,Orange,school_district
-8,Goshen,Orange,school_district
-9,Greenwood Lake,Orange,school_district
-10,Highland Falls / Ft. Montgomery,Orange,school_district
-20,Washingtonville,Orange,school_district
-11,Kiryas Joel,Orange,school_district
-12,Marlboro,Orange,school_district
-13,Minisink Valley,Orange,school_district
-14,Monroe-Woodbury,Orange,school_district
-15,Pine Bush,Orange,school_district
-16,Tuxedo,Orange,school_district
-17,Valley Central,Orange,school_district
-18,Wallkill,Orange,school_district
-19,Warwick Valley,Orange,school_district
-1,Amenia,Dutchess,town
-2,Beekman,Dutchess,town
-3,Clinton,Dutchess,town
-4,Dover,Dutchess,town
-5,East Fishkill,Dutchess,town
-6,Fishkill,Dutchess,town
-7,Hyde Park,Dutchess,town
-8,Lagrange,Dutchess,town
-9,Milan,Dutchess,town
-10,Northeast,Dutchess,town
-11,Pawling,Dutchess,town
-12,Pine Plains,Dutchess,town
-13,Pleasant Valley,Dutchess,town
-14,Poughkeepsie (t),Dutchess,town
-15,Red Hook,Dutchess,town
-16,Rhinebeck,Dutchess,town
-17,Stanford,Dutchess,town
-18,Union Vale,Dutchess,town
-19,Wappinger,Dutchess,town
-20,Washington,Dutchess,town
-30,Beacon (c),Dutchess,town
-31,Poughkeepsie (c),Dutchess,town
-CSD,Chatham,Columbia,school_district
-GSD,Germantown,Columbia,school_district
-HSD,Hudson,Columbia,school_district
-KSD,Ichabod,Columbia,school_district
-LSD,New Lebanon,Columbia,school_district
-PSD,Pine Plains,Columbia,school_district
-RSD,Red Hook,Columbia,school_district
-SSD,Schodack,Columbia,school_district
-TSD,Taconic Hills,Columbia,school_district
-WSD,Webutuck,Columbia,school_district
-33,Arlington Central School District,Dutchess,school_district
-34,Beacon (City) Central School District,Dutchess,school_district
-35,Carmel Central School District,Dutchess,school_district
-36,Dover Union Free School District,Dutchess,school_district
-37,Haldane Central School District,Dutchess,school_district
-38,Hyde Park Central School District,Dutchess,school_district
-39,Millbrook Central School District,Dutchess,school_district
-40,Pawling Central School District,Dutchess,school_district
-41,Pine Plains Central School District,Dutchess,school_district
-42,Poughkeepsie (City) Central School District,Dutchess,school_district
-43,Red Hook Central School District,Dutchess,school_district
-44,Rhinebeck Central School District,Dutchess,school_district
-45,Spackenkill Union Free School District,Dutchess,school_district
-46,Taconic Hills Central School District,Dutchess,school_district
-47,Wappingers Central School District,Dutchess,school_district
-48,Webatuck Central School District,Dutchess,school_district
-50,Arlington Fire,Dutchess,fire_district
-51,Beacon (City) Fire,Dutchess,fire_district
-52,Beekman Fire,Dutchess,fire_district
-53,Castle Point Fire,Dutchess,fire_district
-54,Chelsea Fire,Dutchess,fire_district
-55,Dover Fire,Dutchess,fire_district
-56,Dutchess Junction Fire,Dutchess,fire_district
-57,East Clinton Fire,Dutchess,fire_district
-58,East Fishkill Fire,Dutchess,fire_district
-59,Fairview Fire,Dutchess,fire_district
-60,Fishkill (Village) Fire,Dutchess,fire_district
-61,Glenham Fire,Dutchess,fire_district
-62,Hillside Fire,Dutchess,fire_district
-63,Hughsonville Fire,Dutchess,fire_district
-64,Hyde Park Fire,Dutchess,fire_district
-65,Lagrange Fire,Dutchess,fire_district
-66,Millrook Fire,Dutchess,fire_district
-67,Millerton Fire,Dutchess,fire_district
-68,New Hackensack Fire,Dutchess,fire_district
-69,New Hamburg Fire,Dutchess,fire_district
-70,Pawling Fire,Dutchess,fire_district
-71,Pine Plains Fire,Dutchess,fire_district
-72,Pleasant Valley Fire,Dutchess,fire_district
-73,Poughkeepsie (City) Fire,Dutchess,fire_district
-74,Rhinebeck Fire,Dutchess,fire_district
-75,Rhinecliff Fire,Dutchess,fire_district
-76,Red Hook Fire,Dutchess,fire_district
-77,Rombout Fire,Dutchess,fire_district
-78,Roosevelt Fire,Dutchess,fire_district
-79,Staatsburg Fire,Dutchess,fire_district
-80,Stanford Fire,Dutchess,fire_district
-81,Tivoli Fire,Dutchess,fire_district
-82,Union Vale Fire,Dutchess,fire_district
-83,Wassaic Fire,Dutchess,fire_district
-84,Wappingers Fire,Dutchess,fire_district
-85,West Clinton Fire,Dutchess,fire_district
-86,Amenia Fire,Dutchess,fire_district
-87,Milan Fire,Dutchess,fire_district
-21,Village of Fishkill,Dutchess,village
-22,Village of Millbrook,Dutchess,village
-23,Village of Millerton,Dutchess,village
-24,Village of Pawling,Dutchess,village
-25,Village of Red Hook,Dutchess,village
-26,Village of Rhinebeck,Dutchess,village
-27,Village of Tivoli,Dutchess,village
-28,Village of Wappingers Falls,Dutchess,village
-1,Village of Ellenville,Ulster,village
-3,Village of Saugerties,Ulster,village
-ATH,Village of Athens,Greene,village
-CAT,Village of Catskill,Greene,village
-COX,Village of Coxsackie,Greene,village
-HUN,Village of Hunter,Greene,village
-TAN,Village of Tannersville,Greene,village
-VBL,Village of Bloomingburg,Sullivan,village
-VLI,Village of Liberty,Sullivan,village
-VMO,Village of Monticello,Sullivan,village
-VWO,Village of Woodridge,Sullivan,village
-VWB,Village of Wurtsboro,Sullivan,village
-CUN,Village of Upper Nyack,Rockland,village
-HHA,Village of Haverstraw,Rockland,village
-HWH,Village of West Haverstraw,Rockland,village
-OGR,Village of Grand View-on-Hudson,Rockland,village
-ONY,Village of Nyack,Rockland,village
-OPI,Village of Piermont,Rockland,village
-OSN,Village of South Nyack,Rockland,village
-RAI,Village of Airmont,Rockland,village
-RCR,Village of Chesnut Ridge,Rockland,village
-RHI,Village of Hillburn,Rockland,village
-RKA,Village of Kaser,Rockland,village
-RMO,Village of Montebello,Rockland,village
-RNH,Village of New Hempstead,Rockland,village
-RNS,Village of New Square,Rockland,village
-RPO,Village of Pomona,Rockland,village
-RSL,Village of Sloatsburg,Rockland,village
-RSU,Village of Suffern,Rockland,village
-RSV,Village of Spring Valley,Rockland,village
-RWH,Village of Wesley Hills,Rockland,village
-2,Village of New Paltz,Ulster,village
-11,Claryville Fire District,Ulster,fire_district
-13,Fire Protection District,Ulster,fire_district
-21,Rifton Fire District,Ulster,fire_district
-22,Esopus Fire District,Ulster,fire_district
-23,St Remy Fire District,Ulster,fire_district
-24,Port Ewen Fire District,Ulster,fire_district
-31,South Rondout Fire District,Ulster,fire_district
-41,Gardiner Fire District,Ulster,fire_district
-42,Middle Hardenburgh Fire District,Ulster,fire_district
-43,Hardenburgh Fire District,Ulster,fire_district
-44,Arena Fire District,Ulster,fire_district
-51,Hurley Fire District,Ulster,fire_district
-52,West Hurley Fire District,Ulster,fire_district
-61,Sawkill Fire District,Ulster,fire_district
-65,Stony Hollo Fire District,Ulster,fire_district
-72,Highland Fire District,Ulster,fire_district
-81,Stone Ridge Fire District,Ulster,fire_district
-82,High Falls Fire District,Ulster,fire_district
-83,Cottekill Fire District,Ulster,fire_district
-84,Marbletown Fire District,Ulster,fire_district
-85,Lamontville Fire District,Ulster,fire_district
-86,Kripplebush Fire District,Ulster,fire_district
-87,Valley Atwood Fire District,Ulster,fire_district
-91,Marlborough Fire District,Ulster,fire_district
-92,Milton Fire District,Ulster,fire_district
-101,New Paltz Fire District,Ulster,fire_district
-111,Olive Fire District,Ulster,fire_district
-121,Clintondale Fire District,Ulster,fire_district
-122,Modena Fire District,Ulster,fire_district
-123,Plattekill Fire District,Ulster,fire_district
-131,Accord Fire District,Ulster,fire_district
-143,Tillson Fire District,Ulster,fire_district
-145,Bloomington Fire District,Ulster,fire_district
-148,Rosendale Fire District,Ulster,fire_district
-151,Glasco Fire District,Ulster,fire_district
-152,Centerville Fire District,Ulster,fire_district
-153,Malden-WestCamp Fire District,Ulster,fire_district
-154,Mt Marion Fire District,Ulster,fire_district
-155,Saxton Fire District,Ulster,fire_district
-156,Fire Protection District,Ulster,fire_district
-161,Phoenicia Fire District,Ulster,fire_district
-162,Big Indian Oliverea Fire District,Ulster,fire_district
-163,Highmount Fire District,Ulster,fire_district
-164,Pine Hill Fire District,Ulster,fire_district
-171,Wallkill Fire District,Ulster,fire_district
-172,Prospect Fire District,Ulster,fire_district
-174,Shawangunk Valley Fire District,Ulster,fire_district
-176,Walker Valley Fire District,Ulster,fire_district
-181,Ulster Hose #5,Ulster,fire_district
-182,Ruby Fire District,Ulster,fire_district
-183,East Kingston Fire District,Ulster,fire_district
-184,Eddyville Fire Protection,Ulster,fire_district
-185,Ulster Host #5 Bond,Ulster,fire_district
-186,Ulster #1 (Spring Lake),Ulster,fire_district
-191,Kerhonkson Fire District,Ulster,fire_district
-192,Napanoch Fire District,Ulster,fire_district
-193,Ellenville Fire District,Ulster,fire_district
-194,Cragsmoor Fire District,Ulster,fire_district
-201,Woodstock Fire District,Ulster,fire_district
-28,South Rondout Fire District,Ulster,fire_district
-CAR,Carmel,Putnam,town
-KEN,Kent,Putnam,town
-PAT,Patterson,Putnam,town
-PHI,Philipstown,Putnam,town
-PUT,Putnam Valley,Putnam,town
-SOU,Southeast,Putnam,town
-1,1st City Council District,Westchester,user1
-2,2nd City Council District,Westchester,user1
-3,3rd City Council District,Westchester,user1
-4,4th City Council District,Westchester,user1
-5,5th City Council District,Westchester,user1
-6,6th City Council District,Westchester,user1
-BED,Bedford,Westchester,town
-COR,Cortlandt,Westchester,town
-EAS,Eastchester,Westchester,town
-GRE,Greenburgh,Westchester,town
-HAR,Harrison,Westchester,town
-LEW,Lewisboro,Westchester,town
-MAM,Mamaroneck,Westchester,town
-MTK,Mount Kisco,Westchester,town
-MTP,Mount Pleasant,Westchester,town
-NWC,New Castle,Westchester,town
-NOC,North Castle,Westchester,town
-NOS,North Salem,Westchester,town
-OSS,Ossining,Westchester,town
-PEL,Pelham,Westchester,town
-POU,Pound Ridge,Westchester,town
-RYT,Rye Town,Westchester,town
-SCA,Scarsdale,Westchester,town
-SOM,Somers,Westchester,town
-YOR,Yorktown,Westchester,town
-MTV,Mount Vernon,Westchester,town
-NWR,New Rochelle,Westchester,town
-PEE,Peekskill,Westchester,town
-RYC,Rye City,Westchester,town
-WHI,White Plains,Westchester,town
-YON,Yonkers,Westchester,town
-ARD,Ardsley,Westchester,village
-BRI,Briarcliff Manor,Westchester,village
-BRO,Bronxville,Westchester,village
-BUC,Buchanan,Westchester,village
-CRO,Croton-on-Hudson,Westchester,village
-DOB,Dobbs Ferry,Westchester,village
-ELM,Elmsford,Westchester,village
-HAS,Hasings-on-Hudson,Westchester,village
-IRV,Irvington,Westchester,village
-LAR,Larchmont,Westchester,village
-MAM,Mamaroneck,Westchester,village
-MTK,Mount Kisco,Westchester,village
-SLE,Sleepy Hollow,Westchester,village
-OSS,Ossining,Westchester,village
-PEL,Pelham,Westchester,village
-PEM,Pelham Manor,Westchester,village
-PLE,Pleasantville,Westchester,village
-POR,Port Chester,Westchester,village
-RYE,Rye Brook,Westchester,village
-SCA,Scarsdale,Westchester,village
-TAR,Tarrytown,Westchester,village
-TUC,Tuckahoe,Westchester,village
-1,Bedford Village,Westchester,fire_district
-2,Katonah,Westchester,fire_district
-3,Bedford Hills,Westchester,fire_district
-4,Verplanck,Westchester,fire_district
-5,Montrose,Westchester,fire_district
-6,Lake Mohegan,Westchester,fire_district
-7,EAS - Bronxville Village Hall,Westchester,fire_district
-8,EAS - Tuckahoe Comm Center,Westchester,fire_district
-9,EAS - Chester Heights Firehouse,Westchester,fire_district
-10,EAS - Town Hall,Westchester,fire_district
-11,EAS - Leroy Gregory Post,Westchester,fire_district
-12,Hartsdale,Westchester,fire_district
-13,Fairview,Westchester,fire_district
-14,Greenville,Westchester,fire_district
-15,Purchase,Westchester,fire_district
-16,Vista,Westchester,fire_district
-17,Golden's Bridge,Westchester,fire_district
-18,South Salem,Westchester,fire_district
-19,Mamaroneck,Westchester,fire_district
-20,Pleasantville,Westchester,fire_district
-21,Thornwood,Westchester,fire_district
-22,Hawthorne,Westchester,fire_district
-23,Valhalla,Westchester,fire_district
-24,Scarborough,Westchester,fire_district
-25,Millwood,Westchester,fire_district
-26,New Castle #1,Westchester,fire_district
-27,North Castles #1,Westchester,fire_district
-28,North Castle #2,Westchester,fire_district
-29,Pound Ridge,Westchester,fire_district
-30,Somers,Westchester,fire_district
-31,Yorktown,Westchester,fire_district
-ARD,Ardsley,Westchester,school_district
-BED,Bedford Central,Westchester,school_district
-BLI,Blind Brook,Westchester,school_district
-BRI,Briarcliff Manor,Westchester,school_district
-BRO,Bronxville,Westchester,school_district
-BYR,Byram Hills,Westchester,school_district
-CHA,Chappaqua,Westchester,school_district
-CRO,Croton-Harmon,Westchester,school_district
-DOB,Dobbs Ferry,Westchester,school_district
-EAS,Eastchester,Westchester,school_district
-EDG,Edgemont,Westchester,school_district
-ELM,Elmsford,Westchester,school_district
-GRE,Greenburgh Central,Westchester,school_district
-HAR,Harrison,Westchester,school_district
-HAS,Hastings-on-Hudson,Westchester,school_district
-HEN,Hendrick Hudson,Westchester,school_district
-KAT,Katonah-Lewisboro,Westchester,school_district
-IRV,Irvington,Westchester,school_district
-LAK,Lakeland,Westchester,school_district
-MAM,Mamaroneck,Westchester,school_district
-MTP,Mount Pleasant,Westchester,school_district
-MTV,Mount Vernon,Westchester,school_district
-NWR,New Rochelle,Westchester,school_district
-NOS,North Salem,Westchester,school_district
-OSS,Ossining,Westchester,school_district
-PEL,Lpelham,Westchester,school_district
-PLE,Pleasantville,Westchester,school_district
-POC,Pocantico Hills,Westchester,school_district
-POR,Portchester-Rye,Westchester,school_district
-PUT,Putnam Valley,Westchester,school_district
-RYE,Rye Neck,Westchester,school_district
-SCA,Scarsdale,Westchester,school_district
-SOM,Somers,Westchester,school_district
-TAR,Tarrytown,Westchester,school_district
-TUC,Tuckahoe,Westchester,school_district
-VAL,Valhalla,Westchester,school_district
-YON,Yonkers,Westchester,school_district
-YOR,Yorktown,Westchester,school_district
-20,Andes,Delaware,town
-22,Bovina,Delaware,town
-24,Colchester,Delaware,town
-26,Davenport,Delaware,town
-28,Delhi,Delaware,town
-30,Deposit,Delaware,town
-32,Franklin,Delaware,town
-34,Hamden,Delaware,town
-36,Hancock,Delaware,town
-38,Harpersfield,Delaware,town
-40,Kortright,Delaware,town
-42,Masonville,Delaware,town
-44,Meredith,Delaware,town
-46,Middletown,Delaware,town
-48,Roxbury,Delaware,town
-50,Sidney,Delaware,town
-52,Stamford,Delaware,town
-54,Tompkins,Delaware,town
-56,Walton,Delaware,town
-b,Blank/Void/Missing,Delaware,party
-E,E.R.D.,Delaware,party
-N,NE,Delaware,party
-B,Blank,Delaware,party
-C,Conservative,Delaware,party
-D,Democrat,Delaware,party
-F,Freedom Party,Delaware,party
-G,Green Party,Delaware,party
-I,Independence,Delaware,party
-L,Liberal,Delaware,party
-M,Marijuana Reform,Delaware,party
-N,Libertarian,Delaware,party
-O,Other,Delaware,party
-R,Republican,Delaware,party
-T,Right to Life,Delaware,party
-V,Void,Delaware,party
-W,Working Family,Delaware,party
-0,Not Eligible,Delaware,party
-1,Berlin,Rensselaer,town
-2,Brunswick,Rensselaer,town
-3,East Greenbush,Rensselaer,town
-4,Grafton,Rensselaer,town
-5,Hoosick,Rensselaer,town
-6,Nassau,Rensselaer,town
-7,North Greenbush,Rensselaer,town
-8,Petersburgh,Rensselaer,town
-9,Pittstown,Rensselaer,town
-10,Poestenkill,Rensselaer,town
-11,Rensselaer (c),Rensselaer,town
-12,Sand Lake,Rensselaer,town
-13,Schaghticoke,Rensselaer,town
-14,Schodack,Rensselaer,town
-15,Stephentown,Rensselaer,town
-16,Troy (c),Rensselaer,town
-CAV,Village of Castleton,Rensselaer,village
-ENV,Village of East Nassau,Rensselaer,village
-HFV,Village of Hoosick Falls,Rensselaer,village
-NAV,Village of Nassau,Rensselaer,village
-SCV,Village of Schaghticoke,Rensselaer,village
-VFV,Village of Valley Falls,Rensselaer,village
-1,Croghan,Lewis,town
-2,Denmark,Lewis,town
-3,Diana,Lewis,town
-4,Greig,Lewis,town
-5,Harrisburg,Lewis,town
-6,Lewis,Lewis,town
-7,Leyden,Lewis,town
-8,Lowville,Lewis,town
-9,Lyonsdale,Lewis,town
-10,Martinsburg,Lewis,town
-11,Montague,Lewis,town
-12,New Bremen,Lewis,town
-13,Osceola,Lewis,town
-14,Pinckney,Lewis,town
-15,Turin,Lewis,town
-16,Watson,Lewis,town
-17,West Turin,Lewis,town
-HAR,Village of Harrisburg,Lewis,village
-1,Glen Cove (c),Nassau,town
-2,Hempstead,Nassau,town
-3,Long Beach (c),Nassau,town
-4,North Hempstead,Nassau,town
-5,Oyster Bay,Nassau,town
-22,Pomfret,Chautauqua,town
-BLE,Blenheim,Schoharie,town
-BRO,Broome,Schoharie,town
-CAR,Carlisle,Schoharie,town
-COB,Cobleskill,Schoharie,town
-CON,Conesville,Schoharie,town
-ESP,Esperance,Schoharie,town
-FUL,Fulton,Schoharie,town
-GIL,Gilboa,Schoharie,town
-JEF,Jefferson,Schoharie,town
-MID,Middleburgh,Schoharie,town
-RIC,Richmondville,Schoharie,town
-SCH,Schoharie,Schoharie,town
-SEW,Seward,Schoharie,town
-SHA,Sharon,Schoharie,town
-SUM,Summit,Schoharie,town
-WRI,Wright,Schoharie,town
-1,Ballston,Saratoga,town
-2,Charlton,Saratoga,town
-3,Clifton Park,Saratoga,town
-4,Corinth,Saratoga,town
-5,Day,Saratoga,town
-6,Edinburg,Saratoga,town
-7,Galway,Saratoga,town
-8,Greenfield,Saratoga,town
-9,Hadley,Saratoga,town
-10,Halfmoon,Saratoga,town
-11,Malta,Saratoga,town
-12,Mechanicville,Saratoga,town
-13,Milton,Saratoga,town
-14,Moreau,Saratoga,town
-15,Northumberland,Saratoga,town
-16,Provindence,Saratoga,town
-17,Saratoga,Saratoga,town
-18,Saratoga Springs,Saratoga,town
-19,Stillwater,Saratoga,town
-20,Waterford,Saratoga,town
-21,Wilton,Saratoga,town
-1,Catskill,Greene,leg_district
-2,Coxsackie,Greene,leg_district
-3,Athens,Greene,leg_district
-4,Greenville,Greene,leg_district
-5,New Baltimore,Greene,leg_district
-6,Windham,Greene,leg_district
-7,Hunter,Greene,leg_district
-7,Lexington,Greene,leg_district
-7,Halcott,Greene,leg_district
-8,Cairo,Greene,leg_district
-9,Durham,Greene,leg_district
-1,Ashland,Greene,district
-2,Athens,Greene,district
-3,Cairo,Greene,district
-4,Catskill,Greene,district
-5,Coxsackie,Greene,district
-6,Durham,Greene,district
-7,Greenville,Greene,district
-8,Halcott,Greene,district
-9,Hunter,Greene,district
-10,Jewitt,Greene,district
-11,Lexington,Greene,district
-12,New Baltimore,Greene,district
-13,Prattsville,Greene,district
-14,Windham,Greene,district
-6,Ashland,Greene,leg_district
-6,Jewitt,Greene,leg_district
-6,Prattsville,Greene,leg_district
+id,code,defination,c_id,type_id
+20,20,Ashland,Greene,town
+22,22,Athens,Greene,town
+24,24,Cairo,Greene,town
+26,26,Catskill,Greene,town
+28,28,Coxsackie,Greene,town
+30,30,Durham,Greene,town
+32,32,Greenville,Greene,town
+34,34,Halcott,Greene,town
+36,36,Hunter,Greene,town
+38,38,Jewitt,Greene,town
+40,40,Lexington,Greene,town
+42,42,New Baltimore,Greene,town
+44,44,Prattsville,Greene,town
+46,46,Windham,Greene,town
+ANC,ANC,Ancram,Columbia,town
+AUS,AUS,Austerlitz,Columbia,town
+BE,BE,Bethel,Sullivan,town
+BG,BG,Blooming Grove,Orange,town
+C,C,Clarkstown,Rockland,town
+CA,CA,Callicoon,Sullivan,town
+CAN,CAN,Canaan,Columbia,town
+CHA,CHA,Chatham,Columbia,town
+CHE,CHE,Chester,Orange,town
+CKG,CKG,Kingston (c),Ulster,town
+CLA,CLA,Claverack,Columbia,town
+CLE,CLE,Clermont,Columbia,town
+CO,CO,Cochecton,Sullivan,town
+COP,COP,Copake,Columbia,town
+CR,CR,Crawford,Orange,town
+CW,CW,Cornwall,Orange,town
+DE,DE,Delaware,Sullivan,town
+DEN,DEN,Denning,Ulster,town
+DP,DP,Deerpark,Orange,town
+ESO,ESO,Esopus,Ulster,town
+FA,FA,Fallsburg,Sullivan,town
+FO,FO,Forestburgh,Sullivan,town
+FR,FR,Fremont,Sullivan,town
+GAL,GAL,Gallatin,Columbia,town
+GAR,GAR,Gardiner,Ulster,town
+GER,GER,Germantown,Columbia,town
+GHT,GHT,Ghent,Columbia,town
+GRP,GRP,Greenport,Columbia,town
+GSN,GSN,Goshen,Orange,town
+GV,GV,Greenville,Orange,town
+H,H,Haverstraw,Rockland,town
+HAR,HAR,Hardenburgh,Ulster,town
+HBG,HBG,Hamptonburgh,Orange,town
+HI,HI,Highlands,Orange,town
+HI,HI,Highland,Sullivan,town
+HIL,HIL,Hillsdale,Columbia,town
+HUD,HUD,Hudson,Columbia,town
+HUR,HUR,Hurley,Ulster,town
+KIN,KIN,Kinderhook,Columbia,town
+KIN,KIN,Kingston,Ulster,town
+LI,LI,Liberty,Sullivan,town
+LIV,LIV,Livingston,Columbia,town
+LLO,LLO,Lloyd,Ulster,town
+LU,LU,Lumberland,Sullivan,town
+MA,MA,Mamakating,Sullivan,town
+MAR,MAR,Marbletown,Ulster,town
+MGY,MGY,Montgomery,Orange,town
+MH,MH,Mount Hope,Orange,town
+MID,MID,Middletown,Orange,town
+MIN,MIN,Minisink,Orange,town
+MRL,MRL,Marlborough,Ulster,town
+MRO,MRO,Monroe,Orange,town
+NBG,NBG,Newburgh (c),Orange,town
+NE,NE,Neversink,Sullivan,town
+NEW,NEW,New Paltz,Ulster,town
+NLE,NLE,New Lebanon,Columbia,town
+NW,NW,New Windsor,Orange,town
+NWT,NWT,Newburgh,Orange,town
+O,O,Orangetown,Rockland,town
+OLI,OLI,Olive,Ulster,town
+PJ,PJ,Port Jervis,Orange,town
+PLA,PLA,Plattekill,Ulster,town
+R,R,Ramapo,Rockland,town
+RO,RO,Rockland,Sullivan,town
+ROC,ROC,Rochester,Ulster,town
+ROS,ROS,Rosendale,Ulster,town
+S,S,Stony Point,Rockland,town
+SAU,SAU,Saugerties,Ulster,town
+SHA,SHA,Shandaken,Ulster,town
+SHW,SHW,Shawangunk,Ulster,town
+STP,STP,Stockport,Columbia,town
+STY,STY,Stuyvesant,Columbia,town
+TAG,TAG,Taghkanic,Columbia,town
+TH,TH,Thompson,Sullivan,town
+TU,TU,Tuxedo,Orange,town
+TU,TU,Tusten,Sullivan,town
+ULS,ULS,Ulster,Ulster,town
+WAR,WAR,Warwick,Orange,town
+WAW,WAW,Wawayanda,Orange,town
+WAW,WAW,Wawarsing,Ulster,town
+WKL,WKL,Wallkill,Orange,town
+WO,WO,Woodbury,Orange,town
+WOD,WOD,Woodstock,Ulster,town
+8,8,Kingston Consolidated,Ulster,school_district
+26,26,Pine Bush,Ulster,school_district
+28,28,Fallsburgh,Ulster,school_district
+32,32,Highland,Ulster,school_district
+34,34,Rondout Valley,Ulster,school_district
+36,36,Marlborough,Ulster,school_district
+38,38,New Paltz,Ulster,school_district
+40,40,Onteora,Ulster,school_district
+42,42,Valley Central,Ulster,school_district
+44,44,Livingston Manor,Ulster,school_district
+46,46,Margaretville,Ulster,school_district
+48,48,Saugerties,Ulster,school_district
+52,52,Wallkill,Ulster,school_district
+56,56,Ellenville,Ulster,school_district
+60,60,Tri Valley,Ulster,school_district
+C01,C01,Clarkstown (Area 01),Rockland,school_district
+C02,C02,Clarkstown (Area 02),Rockland,school_district
+C03,C03,Clarkstown (Area 03),Rockland,school_district
+C04,C04,Clarkstown (Area 04),Rockland,school_district
+E01,E01,East Ramapo (Area 01),Rockland,school_district
+E02,E02,East Ramapo (Area 02),Rockland,school_district
+E03,E03,East Ramapo (Area 03),Rockland,school_district
+E04,E04,East Ramapo (Area 04),Rockland,school_district
+E05,E05,East Ramapo (Area 05),Rockland,school_district
+E06,E06,East Ramapo (Area 06),Rockland,school_district
+E07,E07,East Ramapo (Area 07),Rockland,school_district
+E08,E08,East Ramapo (Area 08),Rockland,school_district
+E09,E09,East Ramapo (Area 09),Rockland,school_district
+E10,E10,East Ramapo (Area 10),Rockland,school_district
+H01,H01,Haverstraw (Area 01),Rockland,school_district
+H02,H02,Haverstraw (Area 02),Rockland,school_district
+H03,H03,Haverstraw (Area 03),Rockland,school_district
+NAN,NAN,Nanuet,Rockland,school_district
+NYK,NYK,Nyack,Rockland,school_district
+O01,O01,Orangetown (Area 01),Rockland,school_district
+O02,O02,Orangetown (Area 02),Rockland,school_district
+O03,O03,Orangetown (Area 03),Rockland,school_district
+O04,O04,Orangetown (Area 04),Rockland,school_district
+O05,O05,Orangetown (Area 05),Rockland,school_district
+P01,P01,Pearl River (Area 01),Rockland,school_district
+P02,P02,Pearl River (Area 02),Rockland,school_district
+P03,P03,Pearl River (Area 03),Rockland,school_district
+R01,R01,Ramapo (Area 01),Rockland,school_district
+R02,R02,Ramapo (Area 02),Rockland,school_district
+R03,R03,Ramapo (Area 03),Rockland,school_district
+R04,R04,Ramapo (Area 04),Rockland,school_district
+R05,R05,Ramapo (Area 05),Rockland,school_district
+VBL,VBL,Village of Bloomingburg,Sullivan,school_district
+VLI,VLI,Village of Liberty,Sullivan,school_district
+VMO,VMO,Village of Monticello,Sullivan,school_district
+VWB,VWB,Village of Wurtsboro,Sullivan,school_district
+VWO,VWO,Village of Woodridge,Sullivan,school_district
+1,1,Middletown,Orange,school_district
+2,2,Newburgh,Orange,school_district
+3,3,Port Jervis,Orange,school_district
+4,4,Chester,Orange,school_district
+5,5,Cornwall,Orange,school_district
+6,6,Eldred,Orange,school_district
+7,7,Florida,Orange,school_district
+8,8,Goshen,Orange,school_district
+9,9,Greenwood Lake,Orange,school_district
+10,10,Highland Falls / Ft. Montgomery,Orange,school_district
+20,20,Washingtonville,Orange,school_district
+11,11,Kiryas Joel,Orange,school_district
+12,12,Marlboro,Orange,school_district
+13,13,Minisink Valley,Orange,school_district
+14,14,Monroe-Woodbury,Orange,school_district
+15,15,Pine Bush,Orange,school_district
+16,16,Tuxedo,Orange,school_district
+17,17,Valley Central,Orange,school_district
+18,18,Wallkill,Orange,school_district
+19,19,Warwick Valley,Orange,school_district
+1,1,Amenia,Dutchess,town
+2,2,Beekman,Dutchess,town
+3,3,Clinton,Dutchess,town
+4,4,Dover,Dutchess,town
+5,5,East Fishkill,Dutchess,town
+6,6,Fishkill,Dutchess,town
+7,7,Hyde Park,Dutchess,town
+8,8,Lagrange,Dutchess,town
+9,9,Milan,Dutchess,town
+10,10,Northeast,Dutchess,town
+11,11,Pawling,Dutchess,town
+12,12,Pine Plains,Dutchess,town
+13,13,Pleasant Valley,Dutchess,town
+14,14,Poughkeepsie (t),Dutchess,town
+15,15,Red Hook,Dutchess,town
+16,16,Rhinebeck,Dutchess,town
+17,17,Stanford,Dutchess,town
+18,18,Union Vale,Dutchess,town
+19,19,Wappinger,Dutchess,town
+20,20,Washington,Dutchess,town
+30,30,Beacon (c),Dutchess,town
+31,31,Poughkeepsie (c),Dutchess,town
+CSD,CSD,Chatham,Columbia,school_district
+GSD,GSD,Germantown,Columbia,school_district
+HSD,HSD,Hudson,Columbia,school_district
+KSD,KSD,Ichabod,Columbia,school_district
+LSD,LSD,New Lebanon,Columbia,school_district
+PSD,PSD,Pine Plains,Columbia,school_district
+RSD,RSD,Red Hook,Columbia,school_district
+SSD,SSD,Schodack,Columbia,school_district
+TSD,TSD,Taconic Hills,Columbia,school_district
+WSD,WSD,Webutuck,Columbia,school_district
+33,33,Arlington Central School District,Dutchess,school_district
+34,34,Beacon (City) Central School District,Dutchess,school_district
+35,35,Carmel Central School District,Dutchess,school_district
+36,36,Dover Union Free School District,Dutchess,school_district
+37,37,Haldane Central School District,Dutchess,school_district
+38,38,Hyde Park Central School District,Dutchess,school_district
+39,39,Millbrook Central School District,Dutchess,school_district
+40,40,Pawling Central School District,Dutchess,school_district
+41,41,Pine Plains Central School District,Dutchess,school_district
+42,42,Poughkeepsie (City) Central School District,Dutchess,school_district
+43,43,Red Hook Central School District,Dutchess,school_district
+44,44,Rhinebeck Central School District,Dutchess,school_district
+45,45,Spackenkill Union Free School District,Dutchess,school_district
+46,46,Taconic Hills Central School District,Dutchess,school_district
+47,47,Wappingers Central School District,Dutchess,school_district
+48,48,Webatuck Central School District,Dutchess,school_district
+50,50,Arlington Fire,Dutchess,fire_district
+51,51,Beacon (City) Fire,Dutchess,fire_district
+52,52,Beekman Fire,Dutchess,fire_district
+53,53,Castle Point Fire,Dutchess,fire_district
+54,54,Chelsea Fire,Dutchess,fire_district
+55,55,Dover Fire,Dutchess,fire_district
+56,56,Dutchess Junction Fire,Dutchess,fire_district
+57,57,East Clinton Fire,Dutchess,fire_district
+58,58,East Fishkill Fire,Dutchess,fire_district
+59,59,Fairview Fire,Dutchess,fire_district
+60,60,Fishkill (Village) Fire,Dutchess,fire_district
+61,61,Glenham Fire,Dutchess,fire_district
+62,62,Hillside Fire,Dutchess,fire_district
+63,63,Hughsonville Fire,Dutchess,fire_district
+64,64,Hyde Park Fire,Dutchess,fire_district
+65,65,Lagrange Fire,Dutchess,fire_district
+66,66,Millrook Fire,Dutchess,fire_district
+67,67,Millerton Fire,Dutchess,fire_district
+68,68,New Hackensack Fire,Dutchess,fire_district
+69,69,New Hamburg Fire,Dutchess,fire_district
+70,70,Pawling Fire,Dutchess,fire_district
+71,71,Pine Plains Fire,Dutchess,fire_district
+72,72,Pleasant Valley Fire,Dutchess,fire_district
+73,73,Poughkeepsie (City) Fire,Dutchess,fire_district
+74,74,Rhinebeck Fire,Dutchess,fire_district
+75,75,Rhinecliff Fire,Dutchess,fire_district
+76,76,Red Hook Fire,Dutchess,fire_district
+77,77,Rombout Fire,Dutchess,fire_district
+78,78,Roosevelt Fire,Dutchess,fire_district
+79,79,Staatsburg Fire,Dutchess,fire_district
+80,80,Stanford Fire,Dutchess,fire_district
+81,81,Tivoli Fire,Dutchess,fire_district
+82,82,Union Vale Fire,Dutchess,fire_district
+83,83,Wassaic Fire,Dutchess,fire_district
+84,84,Wappingers Fire,Dutchess,fire_district
+85,85,West Clinton Fire,Dutchess,fire_district
+86,86,Amenia Fire,Dutchess,fire_district
+87,87,Milan Fire,Dutchess,fire_district
+21,21,Village of Fishkill,Dutchess,village
+22,22,Village of Millbrook,Dutchess,village
+23,23,Village of Millerton,Dutchess,village
+24,24,Village of Pawling,Dutchess,village
+25,25,Village of Red Hook,Dutchess,village
+26,26,Village of Rhinebeck,Dutchess,village
+27,27,Village of Tivoli,Dutchess,village
+28,28,Village of Wappingers Falls,Dutchess,village
+1,1,Village of Ellenville,Ulster,village
+3,3,Village of Saugerties,Ulster,village
+ATH,ATH,Village of Athens,Greene,village
+CAT,CAT,Village of Catskill,Greene,village
+COX,COX,Village of Coxsackie,Greene,village
+HUN,HUN,Village of Hunter,Greene,village
+TAN,TAN,Village of Tannersville,Greene,village
+VBL,VBL,Village of Bloomingburg,Sullivan,village
+VLI,VLI,Village of Liberty,Sullivan,village
+VMO,VMO,Village of Monticello,Sullivan,village
+VWO,VWO,Village of Woodridge,Sullivan,village
+VWB,VWB,Village of Wurtsboro,Sullivan,village
+CUN,CUN,Village of Upper Nyack,Rockland,village
+HHA,HHA,Village of Haverstraw,Rockland,village
+HWH,HWH,Village of West Haverstraw,Rockland,village
+OGR,OGR,Village of Grand View-on-Hudson,Rockland,village
+ONY,ONY,Village of Nyack,Rockland,village
+OPI,OPI,Village of Piermont,Rockland,village
+OSN,OSN,Village of South Nyack,Rockland,village
+RAI,RAI,Village of Airmont,Rockland,village
+RCR,RCR,Village of Chesnut Ridge,Rockland,village
+RHI,RHI,Village of Hillburn,Rockland,village
+RKA,RKA,Village of Kaser,Rockland,village
+RMO,RMO,Village of Montebello,Rockland,village
+RNH,RNH,Village of New Hempstead,Rockland,village
+RNS,RNS,Village of New Square,Rockland,village
+RPO,RPO,Village of Pomona,Rockland,village
+RSL,RSL,Village of Sloatsburg,Rockland,village
+RSU,RSU,Village of Suffern,Rockland,village
+RSV,RSV,Village of Spring Valley,Rockland,village
+RWH,RWH,Village of Wesley Hills,Rockland,village
+2,2,Village of New Paltz,Ulster,village
+11,11,Claryville Fire District,Ulster,fire_district
+13,13,Fire Protection District,Ulster,fire_district
+21,21,Rifton Fire District,Ulster,fire_district
+22,22,Esopus Fire District,Ulster,fire_district
+23,23,St Remy Fire District,Ulster,fire_district
+24,24,Port Ewen Fire District,Ulster,fire_district
+31,31,South Rondout Fire District,Ulster,fire_district
+41,41,Gardiner Fire District,Ulster,fire_district
+42,42,Middle Hardenburgh Fire District,Ulster,fire_district
+43,43,Hardenburgh Fire District,Ulster,fire_district
+44,44,Arena Fire District,Ulster,fire_district
+51,51,Hurley Fire District,Ulster,fire_district
+52,52,West Hurley Fire District,Ulster,fire_district
+61,61,Sawkill Fire District,Ulster,fire_district
+65,65,Stony Hollo Fire District,Ulster,fire_district
+72,72,Highland Fire District,Ulster,fire_district
+81,81,Stone Ridge Fire District,Ulster,fire_district
+82,82,High Falls Fire District,Ulster,fire_district
+83,83,Cottekill Fire District,Ulster,fire_district
+84,84,Marbletown Fire District,Ulster,fire_district
+85,85,Lamontville Fire District,Ulster,fire_district
+86,86,Kripplebush Fire District,Ulster,fire_district
+87,87,Valley Atwood Fire District,Ulster,fire_district
+91,91,Marlborough Fire District,Ulster,fire_district
+92,92,Milton Fire District,Ulster,fire_district
+101,101,New Paltz Fire District,Ulster,fire_district
+111,111,Olive Fire District,Ulster,fire_district
+121,121,Clintondale Fire District,Ulster,fire_district
+122,122,Modena Fire District,Ulster,fire_district
+123,123,Plattekill Fire District,Ulster,fire_district
+131,131,Accord Fire District,Ulster,fire_district
+143,143,Tillson Fire District,Ulster,fire_district
+145,145,Bloomington Fire District,Ulster,fire_district
+148,148,Rosendale Fire District,Ulster,fire_district
+151,151,Glasco Fire District,Ulster,fire_district
+152,152,Centerville Fire District,Ulster,fire_district
+153,153,Malden-WestCamp Fire District,Ulster,fire_district
+154,154,Mt Marion Fire District,Ulster,fire_district
+155,155,Saxton Fire District,Ulster,fire_district
+156,156,Fire Protection District,Ulster,fire_district
+161,161,Phoenicia Fire District,Ulster,fire_district
+162,162,Big Indian Oliverea Fire District,Ulster,fire_district
+163,163,Highmount Fire District,Ulster,fire_district
+164,164,Pine Hill Fire District,Ulster,fire_district
+171,171,Wallkill Fire District,Ulster,fire_district
+172,172,Prospect Fire District,Ulster,fire_district
+174,174,Shawangunk Valley Fire District,Ulster,fire_district
+176,176,Walker Valley Fire District,Ulster,fire_district
+181,181,Ulster Hose #5,Ulster,fire_district
+182,182,Ruby Fire District,Ulster,fire_district
+183,183,East Kingston Fire District,Ulster,fire_district
+184,184,Eddyville Fire Protection,Ulster,fire_district
+185,185,Ulster Host #5 Bond,Ulster,fire_district
+186,186,Ulster #1 (Spring Lake),Ulster,fire_district
+191,191,Kerhonkson Fire District,Ulster,fire_district
+192,192,Napanoch Fire District,Ulster,fire_district
+193,193,Ellenville Fire District,Ulster,fire_district
+194,194,Cragsmoor Fire District,Ulster,fire_district
+201,201,Woodstock Fire District,Ulster,fire_district
+28,28,South Rondout Fire District,Ulster,fire_district
+CAR,CAR,Carmel,Putnam,town
+KEN,KEN,Kent,Putnam,town
+PAT,PAT,Patterson,Putnam,town
+PHI,PHI,Philipstown,Putnam,town
+PUT,PUT,Putnam Valley,Putnam,town
+SOU,SOU,Southeast,Putnam,town
+1,1,1st City Council District,Westchester,user1
+2,2,2nd City Council District,Westchester,user1
+3,3,3rd City Council District,Westchester,user1
+4,4,4th City Council District,Westchester,user1
+5,5,5th City Council District,Westchester,user1
+6,6,6th City Council District,Westchester,user1
+BED,BED,Bedford,Westchester,town
+COR,COR,Cortlandt,Westchester,town
+EAS,EAS,Eastchester,Westchester,town
+GRE,GRE,Greenburgh,Westchester,town
+HAR,HAR,Harrison,Westchester,town
+LEW,LEW,Lewisboro,Westchester,town
+MAM,MAM,Mamaroneck,Westchester,town
+MTK,MTK,Mount Kisco,Westchester,town
+MTP,MTP,Mount Pleasant,Westchester,town
+NWC,NWC,New Castle,Westchester,town
+NOC,NOC,North Castle,Westchester,town
+NOS,NOS,North Salem,Westchester,town
+OSS,OSS,Ossining,Westchester,town
+PEL,PEL,Pelham,Westchester,town
+POU,POU,Pound Ridge,Westchester,town
+RYT,RYT,Rye Town,Westchester,town
+SCA,SCA,Scarsdale,Westchester,town
+SOM,SOM,Somers,Westchester,town
+YOR,YOR,Yorktown,Westchester,town
+MTV,MTV,Mount Vernon,Westchester,town
+NWR,NWR,New Rochelle,Westchester,town
+PEE,PEE,Peekskill,Westchester,town
+RYC,RYC,Rye City,Westchester,town
+WHI,WHI,White Plains,Westchester,town
+YON,YON,Yonkers,Westchester,town
+ARD,ARD,Ardsley,Westchester,village
+BRI,BRI,Briarcliff Manor,Westchester,village
+BRO,BRO,Bronxville,Westchester,village
+BUC,BUC,Buchanan,Westchester,village
+CRO,CRO,Croton-on-Hudson,Westchester,village
+DOB,DOB,Dobbs Ferry,Westchester,village
+ELM,ELM,Elmsford,Westchester,village
+HAS,HAS,Hasings-on-Hudson,Westchester,village
+IRV,IRV,Irvington,Westchester,village
+LAR,LAR,Larchmont,Westchester,village
+MAM,MAM,Mamaroneck,Westchester,village
+MTK,MTK,Mount Kisco,Westchester,village
+SLE,SLE,Sleepy Hollow,Westchester,village
+OSS,OSS,Ossining,Westchester,village
+PEL,PEL,Pelham,Westchester,village
+PEM,PEM,Pelham Manor,Westchester,village
+PLE,PLE,Pleasantville,Westchester,village
+POR,POR,Port Chester,Westchester,village
+RYE,RYE,Rye Brook,Westchester,village
+SCA,SCA,Scarsdale,Westchester,village
+TAR,TAR,Tarrytown,Westchester,village
+TUC,TUC,Tuckahoe,Westchester,village
+1,1,Bedford Village,Westchester,fire_district
+2,2,Katonah,Westchester,fire_district
+3,3,Bedford Hills,Westchester,fire_district
+4,4,Verplanck,Westchester,fire_district
+5,5,Montrose,Westchester,fire_district
+6,6,Lake Mohegan,Westchester,fire_district
+7,7,EAS - Bronxville Village Hall,Westchester,fire_district
+8,8,EAS - Tuckahoe Comm Center,Westchester,fire_district
+9,9,EAS - Chester Heights Firehouse,Westchester,fire_district
+10,10,EAS - Town Hall,Westchester,fire_district
+11,11,EAS - Leroy Gregory Post,Westchester,fire_district
+12,12,Hartsdale,Westchester,fire_district
+13,13,Fairview,Westchester,fire_district
+14,14,Greenville,Westchester,fire_district
+15,15,Purchase,Westchester,fire_district
+16,16,Vista,Westchester,fire_district
+17,17,Golden's Bridge,Westchester,fire_district
+18,18,South Salem,Westchester,fire_district
+19,19,Mamaroneck,Westchester,fire_district
+20,20,Pleasantville,Westchester,fire_district
+21,21,Thornwood,Westchester,fire_district
+22,22,Hawthorne,Westchester,fire_district
+23,23,Valhalla,Westchester,fire_district
+24,24,Scarborough,Westchester,fire_district
+25,25,Millwood,Westchester,fire_district
+26,26,New Castle #1,Westchester,fire_district
+27,27,North Castles #1,Westchester,fire_district
+28,28,North Castle #2,Westchester,fire_district
+29,29,Pound Ridge,Westchester,fire_district
+30,30,Somers,Westchester,fire_district
+31,31,Yorktown,Westchester,fire_district
+ARD,ARD,Ardsley,Westchester,school_district
+BED,BED,Bedford Central,Westchester,school_district
+BLI,BLI,Blind Brook,Westchester,school_district
+BRI,BRI,Briarcliff Manor,Westchester,school_district
+BRO,BRO,Bronxville,Westchester,school_district
+BYR,BYR,Byram Hills,Westchester,school_district
+CHA,CHA,Chappaqua,Westchester,school_district
+CRO,CRO,Croton-Harmon,Westchester,school_district
+DOB,DOB,Dobbs Ferry,Westchester,school_district
+EAS,EAS,Eastchester,Westchester,school_district
+EDG,EDG,Edgemont,Westchester,school_district
+ELM,ELM,Elmsford,Westchester,school_district
+GRE,GRE,Greenburgh Central,Westchester,school_district
+HAR,HAR,Harrison,Westchester,school_district
+HAS,HAS,Hastings-on-Hudson,Westchester,school_district
+HEN,HEN,Hendrick Hudson,Westchester,school_district
+KAT,KAT,Katonah-Lewisboro,Westchester,school_district
+IRV,IRV,Irvington,Westchester,school_district
+LAK,LAK,Lakeland,Westchester,school_district
+MAM,MAM,Mamaroneck,Westchester,school_district
+MTP,MTP,Mount Pleasant,Westchester,school_district
+MTV,MTV,Mount Vernon,Westchester,school_district
+NWR,NWR,New Rochelle,Westchester,school_district
+NOS,NOS,North Salem,Westchester,school_district
+OSS,OSS,Ossining,Westchester,school_district
+PEL,PEL,Lpelham,Westchester,school_district
+PLE,PLE,Pleasantville,Westchester,school_district
+POC,POC,Pocantico Hills,Westchester,school_district
+POR,POR,Portchester-Rye,Westchester,school_district
+PUT,PUT,Putnam Valley,Westchester,school_district
+RYE,RYE,Rye Neck,Westchester,school_district
+SCA,SCA,Scarsdale,Westchester,school_district
+SOM,SOM,Somers,Westchester,school_district
+TAR,TAR,Tarrytown,Westchester,school_district
+TUC,TUC,Tuckahoe,Westchester,school_district
+VAL,VAL,Valhalla,Westchester,school_district
+YON,YON,Yonkers,Westchester,school_district
+YOR,YOR,Yorktown,Westchester,school_district
+20,20,Andes,Delaware,town
+22,22,Bovina,Delaware,town
+24,24,Colchester,Delaware,town
+26,26,Davenport,Delaware,town
+28,28,Delhi,Delaware,town
+30,30,Deposit,Delaware,town
+32,32,Franklin,Delaware,town
+34,34,Hamden,Delaware,town
+36,36,Hancock,Delaware,town
+38,38,Harpersfield,Delaware,town
+40,40,Kortright,Delaware,town
+42,42,Masonville,Delaware,town
+44,44,Meredith,Delaware,town
+46,46,Middletown,Delaware,town
+48,48,Roxbury,Delaware,town
+50,50,Sidney,Delaware,town
+52,52,Stamford,Delaware,town
+54,54,Tompkins,Delaware,town
+56,56,Walton,Delaware,town
+b,b,Blank/Void/Missing,Delaware,party
+E,E,E.R.D.,Delaware,party
+N,N,NE,Delaware,party
+B,B,Blank,Delaware,party
+C,C,Conservative,Delaware,party
+D,D,Democrat,Delaware,party
+F,F,Freedom Party,Delaware,party
+G,G,Green Party,Delaware,party
+I,I,Independence,Delaware,party
+L,L,Liberal,Delaware,party
+M,M,Marijuana Reform,Delaware,party
+N,N,Libertarian,Delaware,party
+O,O,Other,Delaware,party
+R,R,Republican,Delaware,party
+T,T,Right to Life,Delaware,party
+V,V,Void,Delaware,party
+W,W,Working Family,Delaware,party
+0,0,Not Eligible,Delaware,party
+1,1,Berlin,Rensselaer,town
+2,2,Brunswick,Rensselaer,town
+3,3,East Greenbush,Rensselaer,town
+4,4,Grafton,Rensselaer,town
+5,5,Hoosick,Rensselaer,town
+6,6,Nassau,Rensselaer,town
+7,7,North Greenbush,Rensselaer,town
+8,8,Petersburgh,Rensselaer,town
+9,9,Pittstown,Rensselaer,town
+10,10,Poestenkill,Rensselaer,town
+11,11,Rensselaer (c),Rensselaer,town
+12,12,Sand Lake,Rensselaer,town
+13,13,Schaghticoke,Rensselaer,town
+14,14,Schodack,Rensselaer,town
+15,15,Stephentown,Rensselaer,town
+16,16,Troy (c),Rensselaer,town
+CAV,CAV,Village of Castleton,Rensselaer,village
+ENV,ENV,Village of East Nassau,Rensselaer,village
+HFV,HFV,Village of Hoosick Falls,Rensselaer,village
+NAV,NAV,Village of Nassau,Rensselaer,village
+SCV,SCV,Village of Schaghticoke,Rensselaer,village
+VFV,VFV,Village of Valley Falls,Rensselaer,village
+1,1,Croghan,Lewis,town
+2,2,Denmark,Lewis,town
+3,3,Diana,Lewis,town
+4,4,Greig,Lewis,town
+5,5,Harrisburg,Lewis,town
+6,6,Lewis,Lewis,town
+7,7,Leyden,Lewis,town
+8,8,Lowville,Lewis,town
+9,9,Lyonsdale,Lewis,town
+10,10,Martinsburg,Lewis,town
+11,11,Montague,Lewis,town
+12,12,New Bremen,Lewis,town
+13,13,Osceola,Lewis,town
+14,14,Pinckney,Lewis,town
+15,15,Turin,Lewis,town
+16,16,Watson,Lewis,town
+17,17,West Turin,Lewis,town
+HAR,HAR,Village of Harrisburg,Lewis,village
+1,1,Glen Cove (c),Nassau,town
+2,2,Hempstead,Nassau,town
+3,3,Long Beach (c),Nassau,town
+4,4,North Hempstead,Nassau,town
+5,5,Oyster Bay,Nassau,town
+22,22,Pomfret,Chautauqua,town
+BLE,BLE,Blenheim,Schoharie,town
+BRO,BRO,Broome,Schoharie,town
+CAR,CAR,Carlisle,Schoharie,town
+COB,COB,Cobleskill,Schoharie,town
+CON,CON,Conesville,Schoharie,town
+ESP,ESP,Esperance,Schoharie,town
+FUL,FUL,Fulton,Schoharie,town
+GIL,GIL,Gilboa,Schoharie,town
+JEF,JEF,Jefferson,Schoharie,town
+MID,MID,Middleburgh,Schoharie,town
+RIC,RIC,Richmondville,Schoharie,town
+SCH,SCH,Schoharie,Schoharie,town
+SEW,SEW,Seward,Schoharie,town
+SHA,SHA,Sharon,Schoharie,town
+SUM,SUM,Summit,Schoharie,town
+WRI,WRI,Wright,Schoharie,town
+1,1,Ballston,Saratoga,town
+2,2,Charlton,Saratoga,town
+3,3,Clifton Park,Saratoga,town
+4,4,Corinth,Saratoga,town
+5,5,Day,Saratoga,town
+6,6,Edinburg,Saratoga,town
+7,7,Galway,Saratoga,town
+8,8,Greenfield,Saratoga,town
+9,9,Hadley,Saratoga,town
+10,10,Halfmoon,Saratoga,town
+11,11,Malta,Saratoga,town
+12,12,Mechanicville,Saratoga,town
+13,13,Milton,Saratoga,town
+14,14,Moreau,Saratoga,town
+15,15,Northumberland,Saratoga,town
+16,16,Provindence,Saratoga,town
+17,17,Saratoga,Saratoga,town
+18,18,Saratoga Springs,Saratoga,town
+19,19,Stillwater,Saratoga,town
+20,20,Waterford,Saratoga,town
+21,21,Wilton,Saratoga,town
+1,1,Catskill,Greene,leg_district
+2,2,Coxsackie,Greene,leg_district
+3,3,Athens,Greene,leg_district
+4,4,Greenville,Greene,leg_district
+5,5,New Baltimore,Greene,leg_district
+6,6,Windham,Greene,leg_district
+7,7,Hunter,Greene,leg_district
+7,7,Lexington,Greene,leg_district
+7,7,Halcott,Greene,leg_district
+8,8,Cairo,Greene,leg_district
+9,9,Durham,Greene,leg_district
+1,1,Ashland,Greene,district
+2,2,Athens,Greene,district
+3,3,Cairo,Greene,district
+4,4,Catskill,Greene,district
+5,5,Coxsackie,Greene,district
+6,6,Durham,Greene,district
+7,7,Greenville,Greene,district
+8,8,Halcott,Greene,district
+9,9,Hunter,Greene,district
+10,10,Jewitt,Greene,district
+11,11,Lexington,Greene,district
+12,12,New Baltimore,Greene,district
+13,13,Prattsville,Greene,district
+14,14,Windham,Greene,district
+6,6,Ashland,Greene,leg_district
+6,6,Jewitt,Greene,leg_district
+6,6,Prattsville,Greene,leg_district
